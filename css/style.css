@@ -797,7 +797,7 @@ a.line:hover {
 
 .contacts-thumbnails {
     text-align: center;
-    margin: 28px -17px;
+    margin: 80px -2% 39px -2%;
 }
 
 .contact-thumb {
@@ -805,13 +805,8 @@ a.line:hover {
     vertical-align: top;
     width: 33.33%;
     max-width: 336px;
-    padding: 10px 17px;
+    padding: 18px 2%;
     text-align: left;
-}
-
-.inner_wrapp {
-    background: #ffffff;
-    padding: 15px 5%;
 }
 
 .contact-thumb .inner {
@@ -825,7 +820,7 @@ a.line:hover {
     vertical-align: top;
     width: 51px;
     padding-top: 4px;
-    border-right: 1px solid #eeeeee;
+    border-right: 1px solid #939393;
 }
 
 .contact-thumb .col-2 {
@@ -845,7 +840,7 @@ a.line:hover {
     font-size: 20px;
     line-height: 26px;
     font-weight: normal;
-    color: #666666;
+    color: #333333;
 }
 
 .contact-thumb .p-1 {
@@ -854,19 +849,19 @@ a.line:hover {
     font-size: 16px;
     line-height: 18px;
     font-weight: normal;
-    color: #666666;
+    color: #333333;
 }
 
 .contact-thumb a {
     font-size: 20px;
     line-height: 20px;
     font-weight: normal;
-    color: #666666;
+    color: #333333;
 }
 
 .contact-thumb a:link,
 .contact-thumb a:visited {
-    color: #666666;
+    color: #333333;
 }
 
 .contact-thumb a:active,
